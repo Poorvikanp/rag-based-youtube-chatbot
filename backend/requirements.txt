@@ -1,0 +1,18 @@
+# fastapi
+# uvicorn
+# openai>=1.0.0
+# faiss-cpu
+# youtube-transcript-api
+# numpy
+# python-dotenv
+# pydantic
+
+fastapi
+uvicorn
+groq
+sentence-transformers
+faiss-cpu
+youtube-transcript-api
+numpy
+python-dotenv
+pydantic
